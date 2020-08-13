@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://garagestudio:garagestudio@garagestudiodb.r0hky.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtToken": "tokenSecret"
+}
